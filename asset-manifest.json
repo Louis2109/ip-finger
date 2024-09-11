@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ip-finger/static/css/main.f855e6bc.css",
+    "main.js": "/ip-finger/static/js/main.abdf43f4.js",
+    "static/js/453.85e100a1.chunk.js": "/ip-finger/static/js/453.85e100a1.chunk.js",
+    "index.html": "/ip-finger/index.html",
+    "main.f855e6bc.css.map": "/ip-finger/static/css/main.f855e6bc.css.map",
+    "main.abdf43f4.js.map": "/ip-finger/static/js/main.abdf43f4.js.map",
+    "453.85e100a1.chunk.js.map": "/ip-finger/static/js/453.85e100a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.abdf43f4.js"
+  ]
+}
